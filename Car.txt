@@ -4,4 +4,5 @@ remote da kodlar ekledim.
 bazı kodlar yazdım.
 
 burada çakışma olacak.
+diğer dev kod yazdı
 
