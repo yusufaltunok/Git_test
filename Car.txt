@@ -4,5 +4,9 @@ remote da kodlar ekledim.
 bazı kodlar yazdım.
 
 burada çakışma olacak.
+
 yusuf branchi kod yazdı.
+
+
+
 
