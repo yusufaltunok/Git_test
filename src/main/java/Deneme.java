@@ -7,5 +7,5 @@ public class Deneme {
 
     public static void main(String[] args) {
 
-    }
+    }Github da bazı kodlar eklendi master da
 }
