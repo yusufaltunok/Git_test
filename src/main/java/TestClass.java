@@ -6,6 +6,8 @@ public class TestClass {
         System.out.println("İntelijde bazı değişiklikler yapıldı...");
 
         System.out.println("");
+        
+        // Github da yeni kodlar eklendi.
 
     }
 }
