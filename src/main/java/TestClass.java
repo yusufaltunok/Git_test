@@ -5,4 +5,4 @@ public class TestClass {
     }
 }//Github da eklendi
 
-// intelij ide
+// intelij ide de eklendi
