@@ -3,4 +3,4 @@ public class TestClass {
         System.out.println("Git den merhaba");
         System.out.println("Github dan merhaba");
     }
-}
+}Github da eklendi
